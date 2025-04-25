@@ -4,4 +4,4 @@ A company focused on building enterprise mobile apps for the Apple ecosystem and
 
 _This site’s under construction—and probably always will be—since we’re all about mobile apps. But if you agree there’s a ton of untapped potential for mobile in the enterprise, drop us a message!_
 
-Made with :heart: by [@cewitte](https://linkedin.com/in/cewitte)
+Made with &#x2665;&#xfe0f; by [@cewitte](https://linkedin.com/in/cewitte)
