@@ -5,4 +5,7 @@ author: Nuvempower
 email: info@nuvempower.com
 url: "https://www.nuvempower.com"
 baseurl: "" # deixe em branco se estiver usando domínio raiz
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
