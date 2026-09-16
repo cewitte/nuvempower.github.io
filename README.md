@@ -9,9 +9,13 @@ You can [email me](mailto:cewitte@outlook.com) at my personal address or (prefer
 ![Contact info](/assets/img/nuvempower_signature.png)
 
 Thank you!
+
 **Carlos Witte**
+
 _Founder_
+
 **NUVEMPOWER SOLUCOES EMPRESARIAIS LTDA**
+
 _Trademark pending registration with INPI (Brazil)_
 
 Made with &#x2665;&#xfe0f; by [@cewitte](https://github.com/cewitte)
